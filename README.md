@@ -14,7 +14,7 @@ The main goal of this project is to analyze textual data from student scholarshi
 ## 📂 Contents
 
 - `student_profiles_lda.ipynb` — Main notebook containing code for preprocessing, training the LDA model, and visualization.
-- `requirements.txt` *(optional)* — List of required packages (can be generated on request).
+- `requirements.txt` — List of required packages (can be generated on request).
 
 ## 🔧 Technologies & Libraries
 
@@ -30,3 +30,13 @@ The main goal of this project is to analyze textual data from student scholarshi
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+4. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+
+5. Open `student_profiles_lda.ipynb` and run the cells.
